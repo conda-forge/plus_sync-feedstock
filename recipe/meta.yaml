@@ -14,7 +14,7 @@ build:
     - plus_sync = plus_sync.cmd:app
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv --no-deps --no-build-isolation
-  number: 0
+  number: 1
 
 requirements:
   host:
@@ -49,6 +49,9 @@ about:
   license: GPL-3.0-or-later
   license_file: LICENSE
   home: https://gitlab.com/thht/plus_sync
+  description: |
+    `plus_sync` is a command line tool to make it easier to synchronize data. It was built with a HPC, more specifically the SCC at the PLUS, setup in mind.
+    You can find some documentation here: https://gitlab.com/thht/plus_sync
 
 extra:
   recipe-maintainers:
