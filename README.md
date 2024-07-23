@@ -9,6 +9,10 @@ Package license: GPL-3.0-or-later
 
 Summary: Convenient command line tool to sync all kind of data.
 
+`plus_sync` is a command line tool to make it easier to synchronize data. It was built with a HPC, more specifically the SCC at the PLUS, setup in mind.
+You can find some documentation here: https://gitlab.com/thht/plus_sync
+
+
 Current build status
 ====================
 
