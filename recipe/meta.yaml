@@ -1,5 +1,5 @@
 {% set name = "plus_sync" %}
-{% set version = "0.4.0" %}
+{% set version = "0.5.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/plus_sync-{{ version }}.tar.gz
-  sha256: ece98b723c93183619890124d6b074021440ae29ee5929d3758ce12d22fb2243
+  sha256: fdf82f90008688fc3a55691729a65a15f73b35b5c6f57001bd9b5b76025ce75d
 
 build:
   entry_points:
