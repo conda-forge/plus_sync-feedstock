@@ -34,6 +34,7 @@ requirements:
     - tqdm
     - joblib
     - quickxorhash
+    - factory_boy
 
 test:
   imports:
