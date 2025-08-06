@@ -31,7 +31,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-plus_sync-green.svg)](https://anaconda.org/conda-forge/plus_sync) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/plus_sync.svg)](https://anaconda.org/conda-forge/plus_sync) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/plus_sync.svg)](https://anaconda.org/conda-forge/plus_sync) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/plus_sync.svg)](https://anaconda.org/conda-forge/plus_sync) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-plus__sync-green.svg)](https://anaconda.org/conda-forge/plus_sync) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/plus_sync.svg)](https://anaconda.org/conda-forge/plus_sync) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/plus_sync.svg)](https://anaconda.org/conda-forge/plus_sync) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/plus_sync.svg)](https://anaconda.org/conda-forge/plus_sync) |
 
 Installing plus_sync
 ====================
