@@ -36,7 +36,7 @@ requirements:
     - joblib
     - quickxorhash
     - factory_boy
-    - click <8.2
+    - click !=8.2.2
 
 test:
   imports:
