@@ -149,6 +149,3 @@ Feedstock Maintainers
 
 * [@thht](https://github.com/thht/)
 
-
-<!-- dummy commit to enable rerendering -->
-
