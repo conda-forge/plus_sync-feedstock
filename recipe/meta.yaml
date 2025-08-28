@@ -1,5 +1,5 @@
 {% set name = "plus_sync" %}
-{% set version = "0.7.2" %}
+{% set version = "0.7.3" %}
 {% set python_min = "3.11" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/plus_sync-{{ version }}.tar.gz
-  sha256: e3da0b92e391a5a92b45a1b1f6eb1b250c773f288db131b5e571ccd884f896b5
+  sha256: 8e71d688a3dedea334d290e96c299e4a0d092834b1a2e98a68fab79cdc331b9f
 
 build:
   entry_points:
@@ -36,7 +36,7 @@ requirements:
     - joblib
     - quickxorhash
     - factory_boy
-    - click <8.2
+    - click !=8.2.2
 
 test:
   imports:
